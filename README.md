@@ -4,6 +4,19 @@ This repository contains the implementation and simulation of a simplified Deep 
 It is based on the paper:  
 **"Adaptable Deep Joint Source-and-Channel Coding for Small Satellite Applications" – Farsad, Goldhahn, Goldsmith, IEEE GLOBECOM 2022**
 
+## 📄 Full Report
+
+A detailed academic report describing the project's background, methodology, architecture, experiments, results, and conclusions is available here:
+
+👉 [ADJSCC.pdf](./ADJSCC.pdf)
+
+It includes:
+- Full theoretical background on JSCC
+- Problem formulation and system diagram
+- Implementation details and training setup
+- Quantitative and visual evaluation across SNR levels
+- Comparison with baseline methods (Naive, JPEG)
+
 ## 📌 Project Goals
 
 - Reproduce and simplify the JSCC model for constrained environments  
