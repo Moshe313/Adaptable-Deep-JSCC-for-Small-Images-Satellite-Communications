@@ -49,6 +49,7 @@ To install the required Python dependencies, run:
 
 ```bash
 pip install -r requirements.txt
+```
 
 ### 🧠 Training a Model
 
