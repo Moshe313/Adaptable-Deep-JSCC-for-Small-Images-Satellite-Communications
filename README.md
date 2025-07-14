@@ -39,6 +39,7 @@ It includes:
 │   ├── jscc_vs_jpeg.png
 │   └── JPEGsnr.png
 ├── ADJSCC.pdf             # Full LaTeX report of the project
+├── requirements.txt       # Requirements for installation
 ├── README.md              # You are here :)
 ```
 
